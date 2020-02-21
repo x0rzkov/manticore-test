@@ -17,7 +17,7 @@ services:
     - manticore
     links:
     - manticore:manticore
-    command: ["manticore-test", "--manticore-host=manticore", "--manticore-port=9312"]
+    command: ["manticore-test", "--manticore-host=manticore", "--manticore-port=9312", "--parallel-jobs=1"]
 
   manticore:
     image: manticoresearch/manticore:latest

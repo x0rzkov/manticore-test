@@ -14,3 +14,11 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 *.sql
+logs
+logs/
+logs/*
+logs/**
+shared
+shared/
+shared/*
+shared/**
