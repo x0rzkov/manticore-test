@@ -1,0 +1,210 @@
+[Fri Feb 21 09:57:30.473 2020] [1] listening on all interfaces, port=9306
+[Fri Feb 21 09:57:30.475 2020] [1] listening on UNIX socket /var/run/mysqld/mysqld.sock
+[Fri Feb 21 09:57:30.521 2020] [1] listening on 172.25.0.2:9312
+[Fri Feb 21 09:57:30.524 2020] [1] WARNING: thread_pool disabled, can not listen for http interface, port=9308, use workers=thread_pool
+[Fri Feb 21 09:57:30.559 2020] [19] prereading 3 indexes
+[Fri Feb 21 09:57:30.566 2020] [19] prereaded 3 indexes in 0.007 sec
+[Fri Feb 21 09:57:30.568 2020] [1] accepting connections
+[Fri Feb 21 09:57:45.647 2020] [1] caught SIGTERM, shutting down
+[Fri Feb 21 09:57:45.754 2020] [1] rt: index limostar: ramchunk saved in 0.003 sec
+[Fri Feb 21 09:57:45.758 2020] [1] shutdown complete
+[Fri Feb 21 09:57:54.080 2020] [1] listening on all interfaces, port=9306
+[Fri Feb 21 09:57:54.087 2020] [1] listening on UNIX socket /var/run/mysqld/mysqld.sock
+[Fri Feb 21 09:57:54.090 2020] [1] listening on 172.25.0.2:9312
+[Fri Feb 21 09:57:54.092 2020] [1] WARNING: thread_pool disabled, can not listen for http interface, port=9308, use workers=thread_pool
+[Fri Feb 21 09:57:54.105 2020] [19] prereading 3 indexes
+[Fri Feb 21 09:57:54.112 2020] [19] prereaded 3 indexes in 0.007 sec
+[Fri Feb 21 09:57:54.111 2020] [1] accepting connections
+[Fri Feb 21 10:00:08.866 2020] [1] caught SIGTERM, shutting down
+[Fri Feb 21 10:00:08.957 2020] [1] rt: index limostar: ramchunk saved in 0.010 sec
+[Fri Feb 21 10:00:08.964 2020] [1] rt: index limotopic: ramchunk saved in 0.004 sec
+[Fri Feb 21 10:00:08.974 2020] [1] shutdown complete
+[Fri Feb 21 10:00:24.594 2020] [1] listening on all interfaces, port=9306
+[Fri Feb 21 10:00:24.598 2020] [1] listening on UNIX socket /var/run/mysqld/mysqld.sock
+[Fri Feb 21 10:00:24.601 2020] [1] listening on 172.25.0.2:9312
+[Fri Feb 21 10:00:24.604 2020] [1] WARNING: thread_pool disabled, can not listen for http interface, port=9308, use workers=thread_pool
+[Fri Feb 21 10:00:24.651 2020] [1] accepting connections
+[Fri Feb 21 10:00:24.651 2020] [18] prereading 3 indexes
+[Fri Feb 21 10:00:24.680 2020] [18] prereaded 3 indexes in 0.028 sec
+[Fri Feb 21 10:02:04.121 2020] [1] caught SIGTERM, shutting down
+[Fri Feb 21 10:02:04.142 2020] [1] rt: index limostar: ramchunk saved in 0.003 sec
+[Fri Feb 21 10:02:04.149 2020] [1] rt: index limotopic: ramchunk saved in 0.001 sec
+[Fri Feb 21 10:02:04.156 2020] [1] shutdown complete
+[Fri Feb 21 10:02:10.675 2020] [1] listening on all interfaces, port=9306
+[Fri Feb 21 10:02:10.698 2020] [1] listening on UNIX socket /var/run/mysqld/mysqld.sock
+[Fri Feb 21 10:02:10.701 2020] [1] listening on 172.25.0.2:9312
+[Fri Feb 21 10:02:10.706 2020] [1] WARNING: thread_pool disabled, can not listen for http interface, port=9308, use workers=thread_pool
+[Fri Feb 21 10:02:10.725 2020] [1] accepting connections
+[Fri Feb 21 10:02:10.725 2020] [19] prereading 3 indexes
+[Fri Feb 21 10:02:10.762 2020] [19] prereaded 3 indexes in 0.037 sec
+[Fri Feb 21 10:02:59.926 2020] [1] caught SIGTERM, shutting down
+[Fri Feb 21 10:02:59.987 2020] [1] rt: index limostar: ramchunk saved in 0.001 sec
+[Fri Feb 21 10:02:59.991 2020] [1] shutdown complete
+[Fri Feb 21 10:04:30.456 2020] [1] listening on all interfaces, port=9306
+[Fri Feb 21 10:04:30.461 2020] [1] listening on UNIX socket /var/run/mysqld/mysqld.sock
+[Fri Feb 21 10:04:30.479 2020] [1] listening on 172.25.0.2:9312
+[Fri Feb 21 10:04:30.490 2020] [1] WARNING: thread_pool disabled, can not listen for http interface, port=9308, use workers=thread_pool
+[Fri Feb 21 10:04:30.509 2020] [19] prereading 3 indexes
+[Fri Feb 21 10:04:30.509 2020] [1] accepting connections
+[Fri Feb 21 10:04:30.512 2020] [19] prereaded 3 indexes in 0.004 sec
+[Fri Feb 21 10:04:34.913 2020] [1] caught SIGTERM, shutting down
+[Fri Feb 21 10:04:34.968 2020] [1] rt: index limostar: ramchunk saved in 0.001 sec
+[Fri Feb 21 10:04:34.971 2020] [1] rt: index limotopic: ramchunk saved in 0.001 sec
+[Fri Feb 21 10:04:34.975 2020] [1] shutdown complete
+[Fri Feb 21 10:04:58.319 2020] [1] listening on all interfaces, port=9306
+[Fri Feb 21 10:04:58.329 2020] [1] listening on UNIX socket /var/run/mysqld/mysqld.sock
+[Fri Feb 21 10:04:58.333 2020] [1] listening on 172.25.0.2:9312
+[Fri Feb 21 10:04:58.335 2020] [1] WARNING: thread_pool disabled, can not listen for http interface, port=9308, use workers=thread_pool
+[Fri Feb 21 10:04:58.367 2020] [1] accepting connections
+[Fri Feb 21 10:04:58.367 2020] [19] prereading 3 indexes
+[Fri Feb 21 10:04:58.382 2020] [19] prereaded 3 indexes in 0.015 sec
+[Fri Feb 21 10:05:04.235 2020] [1] caught SIGTERM, shutting down
+[Fri Feb 21 10:05:04.292 2020] [1] rt: index limostar: ramchunk saved in 0.001 sec
+[Fri Feb 21 10:05:04.299 2020] [1] shutdown complete
+[Fri Feb 21 10:06:13.440 2020] [1] listening on all interfaces, port=9306
+[Fri Feb 21 10:06:13.460 2020] [1] listening on UNIX socket /var/run/mysqld/mysqld.sock
+[Fri Feb 21 10:06:13.468 2020] [1] listening on 172.25.0.2:9312
+[Fri Feb 21 10:06:13.473 2020] [1] WARNING: thread_pool disabled, can not listen for http interface, port=9308, use workers=thread_pool
+[Fri Feb 21 10:06:13.517 2020] [1] accepting connections
+[Fri Feb 21 10:06:13.517 2020] [19] prereading 3 indexes
+[Fri Feb 21 10:06:13.523 2020] [19] prereaded 3 indexes in 0.006 sec
+[Fri Feb 21 10:06:19.248 2020] [1] caught SIGTERM, shutting down
+[Fri Feb 21 10:06:19.307 2020] [1] rt: index limostar: ramchunk saved in 0.001 sec
+[Fri Feb 21 10:06:19.311 2020] [1] rt: index limotopic: ramchunk saved in 0.001 sec
+[Fri Feb 21 10:06:19.314 2020] [1] shutdown complete
+[Fri Feb 21 10:07:09.704 2020] [1] listening on all interfaces, port=9306
+[Fri Feb 21 10:07:09.722 2020] [1] listening on UNIX socket /var/run/mysqld/mysqld.sock
+[Fri Feb 21 10:07:09.725 2020] [1] listening on 172.25.0.2:9312
+[Fri Feb 21 10:07:09.729 2020] [1] WARNING: thread_pool disabled, can not listen for http interface, port=9308, use workers=thread_pool
+[Fri Feb 21 10:07:09.756 2020] [17] prereading 3 indexes
+[Fri Feb 21 10:07:09.761 2020] [17] prereaded 3 indexes in 0.005 sec
+[Fri Feb 21 10:07:09.762 2020] [1] accepting connections
+[Fri Feb 21 10:07:16.326 2020] [1] caught SIGTERM, shutting down
+[Fri Feb 21 10:07:16.392 2020] [1] rt: index limostar: ramchunk saved in 0.006 sec
+[Fri Feb 21 10:07:16.399 2020] [1] rt: index limotopic: ramchunk saved in 0.002 sec
+[Fri Feb 21 10:07:16.410 2020] [1] shutdown complete
+[Fri Feb 21 10:07:39.370 2020] [1] listening on all interfaces, port=9306
+[Fri Feb 21 10:07:39.373 2020] [1] listening on UNIX socket /var/run/mysqld/mysqld.sock
+[Fri Feb 21 10:07:39.376 2020] [1] listening on 172.25.0.2:9312
+[Fri Feb 21 10:07:39.379 2020] [1] WARNING: thread_pool disabled, can not listen for http interface, port=9308, use workers=thread_pool
+[Fri Feb 21 10:07:39.420 2020] [1] accepting connections
+[Fri Feb 21 10:07:39.420 2020] [20] prereading 3 indexes
+[Fri Feb 21 10:07:39.432 2020] [20] prereaded 3 indexes in 0.013 sec
+[Fri Feb 21 10:07:43.890 2020] [1] caught SIGTERM, shutting down
+[Fri Feb 21 10:07:43.945 2020] [1] rt: index limostar: ramchunk saved in 0.001 sec
+[Fri Feb 21 10:07:43.948 2020] [1] rt: index limotopic: ramchunk saved in 0.001 sec
+[Fri Feb 21 10:07:43.953 2020] [1] shutdown complete
+[Fri Feb 21 10:12:15.270 2020] [1] listening on all interfaces, port=9306
+[Fri Feb 21 10:12:15.275 2020] [1] listening on UNIX socket /var/run/mysqld/mysqld.sock
+[Fri Feb 21 10:12:15.280 2020] [1] listening on 172.25.0.2:9312
+[Fri Feb 21 10:12:15.288 2020] [1] WARNING: thread_pool disabled, can not listen for http interface, port=9308, use workers=thread_pool
+[Fri Feb 21 10:12:15.388 2020] [18] prereading 3 indexes
+[Fri Feb 21 10:12:15.388 2020] [1] accepting connections
+[Fri Feb 21 10:12:15.392 2020] [18] prereaded 3 indexes in 0.004 sec
+[Fri Feb 21 10:14:11.267 2020] [1] caught SIGTERM, shutting down
+[Fri Feb 21 10:14:11.332 2020] [1] rt: index limostar: ramchunk saved in 0.002 sec
+[Fri Feb 21 10:14:11.336 2020] [1] rt: index limotopic: ramchunk saved in 0.001 sec
+[Fri Feb 21 10:14:11.352 2020] [1] shutdown complete
+[Fri Feb 21 10:18:01.976 2020] [1] listening on all interfaces, port=9306
+[Fri Feb 21 10:18:01.982 2020] [1] listening on UNIX socket /var/run/mysqld/mysqld.sock
+[Fri Feb 21 10:18:01.984 2020] [1] listening on 172.25.0.2:9312
+[Fri Feb 21 10:18:01.986 2020] [1] WARNING: thread_pool disabled, can not listen for http interface, port=9308, use workers=thread_pool
+[Fri Feb 21 10:18:02.229 2020] [18] prereading 3 indexes
+[Fri Feb 21 10:18:02.237 2020] [18] prereaded 3 indexes in 0.008 sec
+[Fri Feb 21 10:18:02.245 2020] [1] accepting connections
+[Fri Feb 21 10:18:35.861 2020] [1] caught SIGTERM, shutting down
+[Fri Feb 21 10:18:35.929 2020] [1] rt: index limostar: ramchunk saved in 0.015 sec
+[Fri Feb 21 10:18:35.935 2020] [1] rt: index limotopic: ramchunk saved in 0.001 sec
+[Fri Feb 21 10:18:35.944 2020] [1] shutdown complete
+[Fri Feb 21 11:14:11.039 2020] [1] listening on all interfaces, port=9306
+[Fri Feb 21 11:14:11.043 2020] [1] listening on UNIX socket /var/run/mysqld/mysqld.sock
+[Fri Feb 21 11:14:11.046 2020] [1] listening on 172.25.0.2:9312
+[Fri Feb 21 11:14:11.048 2020] [1] WARNING: thread_pool disabled, can not listen for http interface, port=9308, use workers=thread_pool
+[Fri Feb 21 11:14:11.049 2020] [1] DEBUG: 'rt_flush_period' - nothing specified, using default value 36000000000
+[Fri Feb 21 11:14:11.056 2020] [1] DEBUG: 'embedded_limit' - nothing specified, using default value 16384
+[Fri Feb 21 11:14:11.058 2020] [1] DEBUG: 'attr_update_reserve' - nothing specified, using default value 131072
+[Fri Feb 21 11:14:11.059 2020] [1] DEBUG: 'docstore_block_size' - nothing specified, using default value 16384
+[Fri Feb 21 11:14:11.070 2020] [1] DEBUG: WriteLock 0x555abf9357a0 wait
+[Fri Feb 21 11:14:11.072 2020] [1] DEBUG: WriteLock 0x555abf9357a0
+[Fri Feb 21 11:14:11.129 2020] [1] DEBUG: Unlock 0x555abf9357a0
+[Fri Feb 21 11:14:11.129 2020] [19] DEBUG: ReadLock 0x555abf9357a0
+[Fri Feb 21 11:14:11.172 2020] [19] DEBUG: Unlock 0x555abf9357a0
+[Fri Feb 21 11:14:11.169 2020] [1] DEBUG: 'embedded_limit' - nothing specified, using default value 16384
+[Fri Feb 21 11:14:11.180 2020] [1] DEBUG: 'attr_update_reserve' - nothing specified, using default value 131072
+[Fri Feb 21 11:14:11.182 2020] [1] DEBUG: 'docstore_block_size' - nothing specified, using default value 16384
+[Fri Feb 21 11:14:11.193 2020] [1] DEBUG: WriteLock 0x555abf954790 wait
+[Fri Feb 21 11:14:11.198 2020] [1] DEBUG: WriteLock 0x555abf954790
+[Fri Feb 21 11:14:11.210 2020] [1] DEBUG: Unlock 0x555abf954790
+[Fri Feb 21 11:14:11.211 2020] [19] DEBUG: ReadLock 0x555abf954790
+[Fri Feb 21 11:14:11.213 2020] [1] DEBUG: 'embedded_limit' - nothing specified, using default value 16384
+[Fri Feb 21 11:14:11.217 2020] [19] DEBUG: Unlock 0x555abf954790
+[Fri Feb 21 11:14:11.219 2020] [1] DEBUG: 'attr_update_reserve' - nothing specified, using default value 131072
+[Fri Feb 21 11:14:11.225 2020] [1] DEBUG: 'docstore_block_size' - nothing specified, using default value 16384
+[Fri Feb 21 11:14:11.227 2020] [1] DEBUG: WriteLock 0x555abf942290 wait
+[Fri Feb 21 11:14:11.230 2020] [1] DEBUG: WriteLock 0x555abf942290
+[Fri Feb 21 11:14:11.243 2020] [1] DEBUG: Unlock 0x555abf942290
+[Fri Feb 21 11:14:11.243 2020] [19] DEBUG: ReadLock 0x555abf942290
+[Fri Feb 21 11:14:11.244 2020] [1] DEBUG: ReadLock 0x555abf9357a0
+[Fri Feb 21 11:14:11.246 2020] [19] DEBUG: Unlock 0x555abf942290
+[Fri Feb 21 11:14:11.248 2020] [1] DEBUG: Unlock 0x555abf9357a0
+[Fri Feb 21 11:14:11.253 2020] [1] DEBUG: ReadLock 0x555abf954790
+[Fri Feb 21 11:14:11.256 2020] [1] DEBUG: Unlock 0x555abf954790
+[Fri Feb 21 11:14:11.258 2020] [1] DEBUG: ReadLock 0x555abf942290
+[Fri Feb 21 11:14:11.260 2020] [1] DEBUG: Unlock 0x555abf942290
+[Fri Feb 21 11:14:11.262 2020] [1] DEBUG: 'binlog_max_log_size' - nothing specified, using default value 268435456
+[Fri Feb 21 11:14:11.284 2020] [1] DEBUG: MAC address 02:42:ac:19:00:02 for uuid-short server_id
+[Fri Feb 21 11:14:11.286 2020] [1] DEBUG: uid-short server_id 68, started 25614851, seed 4900346140467134464
+[Fri Feb 21 11:14:11.294 2020] [1] DEBUG: ReadLock 0x555abf9357a0
+[Fri Feb 21 11:14:11.298 2020] [1] DEBUG: Unlock 0x555abf9357a0
+[Fri Feb 21 11:14:11.301 2020] [1] DEBUG: ReadLock 0x555abf954790
+[Fri Feb 21 11:14:11.306 2020] [1] DEBUG: Unlock 0x555abf954790
+[Fri Feb 21 11:14:11.309 2020] [1] DEBUG: ReadLock 0x555abf942290
+[Fri Feb 21 11:14:11.315 2020] [1] DEBUG: Unlock 0x555abf942290
+[Fri Feb 21 11:14:11.318 2020] [1] DEBUG: SaveMeta: Done.
+[Fri Feb 21 11:14:11.321 2020] [19] prereading 3 indexes
+[Fri Feb 21 11:14:11.323 2020] [1] accepting connections
+[Fri Feb 21 11:14:11.326 2020] [19] DEBUG: ReadLock 0x555abf9357a0
+[Fri Feb 21 11:14:11.331 2020] [19] DEBUG: prereading index 'limostar'
+[Fri Feb 21 11:14:11.334 2020] [19] DEBUG: prereaded index 'limostar' in 0.003 sec
+[Fri Feb 21 11:14:11.341 2020] [19] DEBUG: Unlock 0x555abf9357a0
+[Fri Feb 21 11:14:11.346 2020] [19] DEBUG: ReadLock 0x555abf954790
+[Fri Feb 21 11:14:11.349 2020] [19] DEBUG: prereading index 'limotopic'
+[Fri Feb 21 11:14:11.351 2020] [19] DEBUG: prereaded index 'limotopic' in 0.002 sec
+[Fri Feb 21 11:14:11.353 2020] [19] DEBUG: Unlock 0x555abf954790
+[Fri Feb 21 11:14:11.357 2020] [19] DEBUG: ReadLock 0x555abf942290
+[Fri Feb 21 11:14:11.360 2020] [19] DEBUG: prereading index 'pq'
+[Fri Feb 21 11:14:11.363 2020] [19] DEBUG: prereaded index 'pq' in 0.003 sec
+[Fri Feb 21 11:14:11.366 2020] [19] DEBUG: Unlock 0x555abf942290
+[Fri Feb 21 11:14:11.369 2020] [19] prereaded 3 indexes in 0.048 sec
+[Fri Feb 21 11:14:50.965 2020] [20] DEBUG: conn 172.25.0.3:43728(1): got handshake, major v.16777216, err 0
+[Fri Feb 21 11:14:50.978 2020] [20] DEBUG: conn 172.25.0.3:43728(1): got command 4, handling
+[Fri Feb 21 11:14:50.985 2020] [20] DEBUG: conn 172.25.0.3:43728(1): pconn is now on
+[Fri Feb 21 11:15:12.146 2020] [20] DEBUG: conn 172.25.0.3:43728(1): got command 8, handling
+[Fri Feb 21 11:15:12.246 2020] [20] DEBUG: ReadLock 0x555abf9357a0
+[Fri Feb 21 11:15:12.429 2020] [20] DEBUG: Unlock 0x555abf9357a0
+[Fri Feb 21 11:15:12.452 2020] [20] DEBUG: conn 172.25.0.3:43728(1): bailing on failed request header (sockerr=Connection reset by peer)
+[Fri Feb 21 11:15:12.459 2020] [20] DEBUG: conn 172.25.0.3:43728(1): exiting
+[Fri Feb 21 11:15:28.915 2020] [1] caught SIGTERM, shutting down
+[Fri Feb 21 11:15:28.979 2020] [1] DEBUG: ReadLock 0x555abf9357a0
+[Fri Feb 21 11:15:28.983 2020] [1] DEBUG: Unlock 0x555abf9357a0
+[Fri Feb 21 11:15:28.989 2020] [1] DEBUG: ReadLock 0x555abf954790
+[Fri Feb 21 11:15:28.992 2020] [1] DEBUG: Unlock 0x555abf954790
+[Fri Feb 21 11:15:29.000 2020] [1] DEBUG: ReadLock 0x555abf942290
+[Fri Feb 21 11:15:29.006 2020] [1] DEBUG: Unlock 0x555abf942290
+[Fri Feb 21 11:15:29.012 2020] [1] DEBUG: ReadLock 0x555abf9357a0
+[Fri Feb 21 11:15:29.015 2020] [1] DEBUG: Unlock 0x555abf9357a0
+[Fri Feb 21 11:15:29.021 2020] [1] DEBUG: ReadLock 0x555abf954790
+[Fri Feb 21 11:15:29.027 2020] [1] DEBUG: Unlock 0x555abf954790
+[Fri Feb 21 11:15:29.048 2020] [1] DEBUG: ReadLock 0x555abf942290
+[Fri Feb 21 11:15:29.059 2020] [1] DEBUG: Unlock 0x555abf942290
+[Fri Feb 21 11:15:29.066 2020] [1] DEBUG: ReadLock 0x555abf9357a0
+[Fri Feb 21 11:15:29.076 2020] [1] DEBUG: Unlock 0x555abf9357a0
+[Fri Feb 21 11:15:29.080 2020] [1] DEBUG: ReadLock 0x555abf954790
+[Fri Feb 21 11:15:29.084 2020] [1] DEBUG: Unlock 0x555abf954790
+[Fri Feb 21 11:15:29.086 2020] [1] DEBUG: ReadLock 0x555abf942290
+[Fri Feb 21 11:15:29.089 2020] [1] DEBUG: Unlock 0x555abf942290
+[Fri Feb 21 11:15:29.097 2020] [1] DEBUG: SaveMeta: Done.
+[Fri Feb 21 11:15:29.101 2020] [1] rt: index limostar: ramchunk saved in 0.008 sec
+[Fri Feb 21 11:15:29.106 2020] [1] rt: index limotopic: ramchunk saved in 0.001 sec
+[Fri Feb 21 11:15:29.110 2020] [1] DEBUG: DistributedIndex_t 0x555abf933450 removed
+[Fri Feb 21 11:15:29.114 2020] [1] shutdown complete

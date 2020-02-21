@@ -28,7 +28,6 @@ WORKDIR /opt/ncarlier/data
 
 # copy executable
 COPY --from=builder /go/bin/manticore-test /opt/manticore/bin/manticore-test
-COPY ./dump/manticore.sql /opt/manticore/data/manticore.sql
 
 ENV PATH $PATH:/opt/manticore/bin
 

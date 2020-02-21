@@ -6,20 +6,19 @@ services:
     image: manticoresearch/importer
     container_name: ${NAMESPACE}-importer
     build:
-      context: ./.docker/manticore
+      context: .
       dockerfile: Dockerfile
-    ports:
-    - "9306:9306"
-    - "9313:9312"
     volumes:
     - mt-data:/var/lib/manticore/data
     - ./shared/logs/manticore:/var/log/manticore
     - ./.config/manticore/:/etc/manticoresearch/
-    # networks:
-    # - internal
+    - ./manticore-dump.sql:/opt/manticore/data/manticore-dump.sql:ro
+    depends_on:
+    - manticore
+    links:
+    - manticore:manticore
+    command: ["manticore-test", "--manticore-host=manticore", "--manticore-port=9312"]
 
-  # https://github.com/manticoresoftware/docker
-  # mysql -P9306 -h 127.0.0.1 < assets/sql/truncate_sphinx.sql
   manticore:
     image: manticoresearch/manticore:latest
     container_name: ${NAMESPACE}-server
@@ -30,6 +29,7 @@ services:
     - mt-data:/var/lib/manticore/data
     - ./logs/manticore:/var/log/manticore
     - ./manticore.conf:/etc/manticoresearch/manticore.conf
+    command: ["searchd", "--nodetach", "--logdebugvv"]
 
 volumes:
   mt-data:
